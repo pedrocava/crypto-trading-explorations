@@ -1,0 +1,12 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|iteration|parent|children|seconds|warnings|error
+write_data|function|fd280381470bbf31||||||||||||||
+data|stem|f96d53e536e561c8|d197d0c1b07bd250|103a9f07943ebb8b|1588979285||t18883.7249703052s|3a6e42e67ce4ee37|2214|rds|vector|||3.64|package modeltime was built under R version 4.1.1|
+splits|stem|eb2b9d388f9a9b57|452a52c130927850|a15529cd19144d80|832082529||t18883.7249724932s|3314056bf3a47669|2365|rds|vector|||0.16||
+model_calibration|function|80b312d93426d88d||||||||||||||
+visualize_forecast|function|8d2513a66b58e413||||||||||||||
+initial_split|function|1f6e3e03225b546a||||||||||||||
+bitcoin_data|function|0fc3b537c866c6a7||||||||||||||
+model_frame|function|ee8972334fc75cff||||||||||||||
+models|stem|9223eb5221ad71f5|033dc3ffb95a6d8a|52cb784765776add|-252836656||t18883.7340013298s|93804782602d3996|20673|rds|vector|||5.09|package modeltime was built under R version 4.1.1|
+calibration|stem|7bcc3fb0061ba000|ed699999604dcaa5|28cd1b8c0dca9320|-1524082328||t18883.7340026298s|113d2d0ab817b914|21128|rds|vector|||0.09||
+forecast_plot|stem|b4c98a0cccde76fc|9edbca03cdfd315d|3451ed29e5b174ba|909652478||t18883.7340083145s|39e96a581d4f63c7|218248|rds|vector|||0.39||
