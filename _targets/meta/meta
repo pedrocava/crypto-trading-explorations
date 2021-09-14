@@ -1,12 +1,31 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|iteration|parent|children|seconds|warnings|error
 write_data|function|fd280381470bbf31||||||||||||||
 data|stem|f96d53e536e561c8|d197d0c1b07bd250|103a9f07943ebb8b|1588979285||t18883.7249703052s|3a6e42e67ce4ee37|2214|rds|vector|||3.64|package modeltime was built under R version 4.1.1|
-splits|stem|eb2b9d388f9a9b57|452a52c130927850|a15529cd19144d80|832082529||t18883.7249724932s|3314056bf3a47669|2365|rds|vector|||0.16||
+feature_enrichment|function|8d5e9ad6d0e9dd1f||||||||||||||
 model_calibration|function|80b312d93426d88d||||||||||||||
 visualize_forecast|function|8d2513a66b58e413||||||||||||||
+viz_return_dist|function|01d5749395903d67||||||||||||||
+viz_historic_series|function|1b7b9789f23bf1eb||||||||||||||
 initial_split|function|1f6e3e03225b546a||||||||||||||
 bitcoin_data|function|0fc3b537c866c6a7||||||||||||||
-model_frame|function|ee8972334fc75cff||||||||||||||
-models|stem|9223eb5221ad71f5|033dc3ffb95a6d8a|52cb784765776add|-252836656||t18883.7340013298s|93804782602d3996|20673|rds|vector|||5.09|package modeltime was built under R version 4.1.1|
-calibration|stem|7bcc3fb0061ba000|ed699999604dcaa5|28cd1b8c0dca9320|-1524082328||t18883.7340026298s|113d2d0ab817b914|21128|rds|vector|||0.09||
-forecast_plot|stem|b4c98a0cccde76fc|9edbca03cdfd315d|3451ed29e5b174ba|909652478||t18883.7340083145s|39e96a581d4f63c7|218248|rds|vector|||0.39||
+model_frame|function|61d857c1b92a86ce||||||||||||||
+features|stem|027efbb5069444c6|51a46f64feb15d82|0852cb5461f14feb|1642194290||t18884.9269764269s|eee9e7fb9d1d2f8e|7844|rds|vector|||2.28|package modeltime was built under R version 4.1.1|
+return_histogram|stem|526da661c2780d7c|464027598207d69a|05693551f014658b|811721087||t18884.926976948s|6c490f76b8d8b786|61394|rds|vector|||0.02||
+splits|stem|6b68d5e199eb95ca|76704d85efcb1f02|933a0e98f57765d0|832082529||t18884.926979183s|4a378d9af4cef151|8001|rds|vector|||0.17||
+historic_prices|stem|57119069d08ec10a|34e8849ea6328d5a|7adb5c35a64410f4|1428287014||t18884.926979786s|c0d76e33031e8406|53833|rds|vector|||0.02||
+models|stem|a104b69b633c3122|033dc3ffb95a6d8a|aef2c5571fd7bfd7|-252836656||t18884.9270111123s|dd4c0455be5f4a60|59156|rds|vector|||2.66||
+calibration|stem|5b2f4328ad600530|ed699999604dcaa5|3e253d7d87c8aec4|-1524082328||t18884.92701249s|3a36f40726e772bf|59760|rds|vector|||0.1||
+forecast_plot|stem|ed7c8d6195c35231|d7b632c70be87b79|42dff5b27d436274|909652478||t18884.9270180218s|cab0a0199ba3d43e|223541|rds|vector|||0.39||
+feature_enrichment|function|7097af406f7d9d35
+model_calibration|function|80b312d93426d88d
+visualize_forecast|function|8d2513a66b58e413
+viz_return_dist|function|01d5749395903d67
+cummulative_returns|function|c6604c3e1b975bf2
+viz_historic_series|function|1b7b9789f23bf1eb
+initial_split|function|1f6e3e03225b546a
+bitcoin_data|function|0fc3b537c866c6a7
+model_frame|function|9f8fc4f9f277c542
+features|stem|6dc1e5f2b719a4d2|51a46f64feb15d82|1c6b6f2c5b2363cd|1642194290||t18884.9372437956s|181b740156c50c72|7834|rds|vector|||2.25|package modeltime was built under R version 4.1.1|
+return_histogram|stem|deab4d8f8f5e110b|464027598207d69a|8294126c4b167fa8|811721087||t18884.9372442934s|111e79a33103e538|61385|rds|vector|||0||
+splits|stem|841d69734be5bbf2|76704d85efcb1f02|0afc757a719c4ca2|832082529||t18884.9372467361s|d127cd36700e6503|7990|rds|vector|||0.19||
+historic_prices|stem|ce418e408f02eb7d|34e8849ea6328d5a|19e1bfaca7172bcb|1428287014||t18884.9372473813s|a47a2216752b10c4|53811|rds|vector|||0.01||
